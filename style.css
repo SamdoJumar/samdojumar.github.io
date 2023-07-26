@@ -1,0 +1,38 @@
+
+
+.jumbotron {
+    padding:6rem 0rem 0rem 0rem;
+    background-color: #e2edff;
+}
+
+#project{
+    background-color: #e2edff;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+#contact {
+    background-color: #e2edff;
+}
+
+/* #kontak {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#kontak{
+    width: 60%;
+    padding: 45px;
+    border-radius: 0;
+  position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#kontak {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+} */
